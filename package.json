@@ -22,8 +22,8 @@
   },
   "homepage": "https://vincent7128.github.io/text-image/",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-clean": "^0.3.2",
+    "gulp": "^5.0.1",
+    "gulp-clean": "^0.4.0",
     "gulp-replace": "^0.6.1",
     "gulp-sync": "^0.1.4",
     "gulp-uglify": "^3.0.0",
